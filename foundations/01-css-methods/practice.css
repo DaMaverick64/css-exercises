@@ -1,0 +1,14 @@
+Body{
+    background-color: black;
+}
+.parent_class{
+    background-color: white;
+    padding-bottom: 10px;
+}
+.child_class{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-color: red;
+}
