@@ -5,6 +5,10 @@ html {
 }
 
 .container {
+  display: grid;
+  grid-template-columns: 300fr 900fr;
+  grid-template-rows: 100fr 100fr 500fr 100fr;
+  gap: 15px;
   text-align: center;
   height: 100%;
   padding: 16px;
